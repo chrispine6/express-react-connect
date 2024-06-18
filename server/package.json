@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "v1_update test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "stark",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
